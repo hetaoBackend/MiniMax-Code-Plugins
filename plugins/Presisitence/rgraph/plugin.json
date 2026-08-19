@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "rgraph",
+  "version": "0.1.0",
+  "description": "RNA-seq downstream analysis and publication figures via local Rscript (DESeq2/edgeR/limma, volcano, heatmap, GSEA, WGCNA).",
+  "author": {
+    "name": "Presisitence",
+    "url": "https://github.com/Presisitence"
+  },
+  "homepage": "https://github.com/Presisitence/rgraph-mcp",
+  "repository": "https://github.com/Presisitence/rgraph-mcp",
+  "license": "MIT",
+  "keywords": [
+    "minimax-code",
+    "plugin",
+    "mcp",
+    "rnaseq",
+    "deseq2",
+    "ggplot2",
+    "wgcna"
+  ]
+}
