@@ -1,7 +1,7 @@
 [project]
-name = "rgraph-mcp"
-version = "0.1.0"
-description = "RNAseq 下游可视化/分析 MCP 服务：把一套 R (ggplot2/pheatmap/clusterProfiler/WGCNA...) 出图脚本参数化封装为 MCP 工具，由 Rscript 引擎渲染"
+name = "rnaseq-plot-mcp"
+version = "0.1.1"
+description = "RNA-seq 下游出图 MCP：把一套 R (ggplot2/pheatmap/clusterProfiler/WGCNA...) 脚本封装为工具，由本机 Rscript 渲染 png+pdf"
 readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"

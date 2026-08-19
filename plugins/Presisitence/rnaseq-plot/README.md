@@ -1,11 +1,13 @@
-# rgraph
+# rnaseq-plot
 
-RNA-seq **downstream** analysis and figures for MiniMax Code. Parameterized R scripts
-(ggplot2, pheatmap, clusterProfiler, edgeR, limma, WGCNA, …) are exposed as MCP tools and
-rendered by the user's local **Rscript** to png + pdf.
+RNA-seq **downstream plotting** for MiniMax Code (formerly published as `rgraph`).
+Parameterized R scripts (ggplot2, pheatmap, clusterProfiler, edgeR, limma, WGCNA, …)
+are exposed as MCP tools and rendered by the user's local **Rscript** to png + pdf.
 
 The Plugin consumes the user's own count/FPKM tables. It does not ship genomes or experimental matrices.
 `tests/data/` is a tiny synthetic `g1`–`g10` table for smoke tests.
+
+MCP **tool names remain `rgraph_*`** (for example `rgraph_volcano`) so existing prompts keep working.
 
 ## Try it
 
@@ -34,4 +36,4 @@ by default. If R or a package is missing, the tool returns install commands inst
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE). Source: https://github.com/Presisitence/rnaseq-plot-mcp

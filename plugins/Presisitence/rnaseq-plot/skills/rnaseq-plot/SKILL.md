@@ -1,11 +1,11 @@
 ---
-name: rgraph
-description: Use when the user already has an RNA-seq count or expression matrix and needs downstream analysis or figures (normalize, PCA, DESeq2/edgeR/limma, volcano, heatmap, GO/KEGG, GSEA, WGCNA). Drive the rgraph MCP tools with local Rscript; do not redraw in Python.
+name: rnaseq-plot
+description: Use when the user already has an RNA-seq count or expression matrix and needs downstream plots or analysis (normalize, PCA, DESeq2/edgeR/limma, volcano, heatmap, GO/KEGG, GSEA, WGCNA). Call the rnaseq-plot MCP tools named rgraph_*; do not redraw in Python.
 ---
 
-# rgraph
+# rnaseq-plot
 
-Use the `rgraph` MCP tools. Prefer R-rendered png+pdf over matplotlib copies.
+Use the `rnaseq-plot` MCP server. Tool functions are still named `rgraph_*`. Prefer R-rendered png+pdf over matplotlib copies.
 
 ## Typical order
 

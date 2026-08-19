@@ -1,8 +1,9 @@
-"""rgraph —— RNAseq 下游可视化/分析 MCP Server (FastMCP)。
+"""rnaseq-plot —— RNA-seq 下游出图 MCP Server (FastMCP)。
 
 把一套清洗过、参数化的 R 出图脚本（rscripts/*.R）暴露为 MCP 工具，由本机 Rscript 引擎渲染，
-产出与课程一致风格的 png+pdf。定位不到 R 时返回可手动运行的脚本与命令；R 端缺包时返回缺失
-包名与安装建议。
+产出 png+pdf。工具函数名保持 `rgraph_*`，与既有客户端配置兼容。
+
+定位不到 R 时返回可手动运行的脚本与命令；R 端缺包时返回缺失包名与安装建议。
 
 运行:
     uv run --directory <this-dir> server.py
@@ -15,7 +16,7 @@ from mcp.server.fastmcp import FastMCP
 
 from rgraph_toolkit import runner
 
-mcp = FastMCP("rgraph")
+mcp = FastMCP("rnaseq-plot")
 
 
 def _clean(**kw: Any) -> dict[str, Any]:

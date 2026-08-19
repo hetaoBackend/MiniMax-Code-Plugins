@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
   "mcpServers": {
-    "rgraph": {
+    "rnaseq-plot": {
       "type": "stdio",
       "command": "uv",
       "args": ["run", "server.py"],
