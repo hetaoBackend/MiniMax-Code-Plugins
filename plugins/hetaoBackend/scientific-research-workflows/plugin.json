@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "scientific-research-workflows",
+  "version": "1.0.0",
+  "description": "Nine local-first scientific research Skills for ideation, hypotheses, study design, statistics, uncertainty, writing, peer review, and scholarly evaluation.",
+  "author": {
+    "name": "K-Dense Inc.; MiniMax Code packaging by hetaoBackend",
+    "url": "https://k-dense.ai"
+  },
+  "homepage": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "repository": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "license": "MIT",
+  "keywords": [
+    "minimax-code",
+    "science",
+    "research",
+    "statistics",
+    "peer-review",
+    "scientific-writing"
+  ]
+}
