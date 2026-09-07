@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **Archived — this repository is no longer maintained.**
+> Development continues at [MiniMax-AI/MiniMax-Code-Plugins](https://github.com/MiniMax-AI/MiniMax-Code-Plugins).
+> Please submit all new pull requests and issues to the official repository.
+
 <p align="center">
   <img src="assets/hero.svg" alt="MiniMax Code Plugins — one folder, one pull request, a new agent superpower" width="100%" />
 </p>
@@ -13,7 +18,7 @@
   <a href="https://github.com/hetaoBackend/MiniMax-Code-Plugins/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/hetaoBackend/MiniMax-Code-Plugins/ci.yml?branch=main&amp;style=flat-square&amp;label=build" alt="Build status" /></a>
   <img src="https://img.shields.io/badge/Agent_Plugins-1.0-8b5cf6?style=flat-square" alt="Agent Plugins 1.0" />
   <img src="https://img.shields.io/github/license/hetaoBackend/MiniMax-Code-Plugins?style=flat-square&amp;color=22c55e" alt="Apache-2.0 license" />
-  <img src="https://img.shields.io/badge/PRs-welcome-ec4899?style=flat-square" alt="Pull requests welcome" />
+  <a href="https://github.com/MiniMax-AI/MiniMax-Code-Plugins"><img src="https://img.shields.io/badge/status-archived-64748b?style=flat-square" alt="Archived — contribute to MiniMax-AI/MiniMax-Code-Plugins" /></a>
 </p>
 
 ## One folder is the release

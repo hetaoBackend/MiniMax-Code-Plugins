@@ -1,5 +1,12 @@
 # Contributing
 
+> [!IMPORTANT]
+> This repository is archived and no longer maintained. Please fork
+> [MiniMax-AI/MiniMax-Code-Plugins](https://github.com/MiniMax-AI/MiniMax-Code-Plugins)
+> and submit all new pull requests and issues there.
+>
+> 本仓库已归档，不再维护。请 Fork 上方的官方仓库，并将新的 Pull Request 和 Issue 提交到那里。
+
 One folder is one Plugin. One pull request is one contribution.
 
 ## 1. Create your Plugin

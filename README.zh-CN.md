@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **已归档 — 本仓库不再维护。**
+> 后续开发已迁移至官方仓库 [MiniMax-AI/MiniMax-Code-Plugins](https://github.com/MiniMax-AI/MiniMax-Code-Plugins)。
+> 请将新的 Pull Request 和 Issue 提交到官方仓库。
+
 <p align="center">
   <img src="assets/hero.svg" alt="MiniMax Code Plugins：一个目录、一个 PR，给 Agent 一项新能力" width="100%" />
 </p>
@@ -13,7 +18,7 @@
   <a href="https://github.com/hetaoBackend/MiniMax-Code-Plugins/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/hetaoBackend/MiniMax-Code-Plugins/ci.yml?branch=main&amp;style=flat-square&amp;label=build" alt="构建状态" /></a>
   <img src="https://img.shields.io/badge/Agent_Plugins-1.0-8b5cf6?style=flat-square" alt="Agent Plugins 1.0" />
   <img src="https://img.shields.io/github/license/hetaoBackend/MiniMax-Code-Plugins?style=flat-square&amp;color=22c55e" alt="Apache-2.0 License" />
-  <img src="https://img.shields.io/badge/PRs-welcome-ec4899?style=flat-square" alt="欢迎提交 PR" />
+  <a href="https://github.com/MiniMax-AI/MiniMax-Code-Plugins"><img src="https://img.shields.io/badge/status-archived-64748b?style=flat-square" alt="已归档 — 请向 MiniMax-AI/MiniMax-Code-Plugins 提交贡献" /></a>
 </p>
 
 ## 一个目录，就是一个发布单元
